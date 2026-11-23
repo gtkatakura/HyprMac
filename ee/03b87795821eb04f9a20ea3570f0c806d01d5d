@@ -1,0 +1,19 @@
+HyprMacTests/EngineTreeMutationTests.swift
+  s_3c136e2bc184aa::t_5047fa099ae7ef 160-286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ee03b87795821eb04f9a20ea3570f0c806d01d5d",
+  "prompts": {},
+  "sessions": {
+    "s_3c136e2bc184aa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e7f80ce4-f036-458a-860c-70cba579f582",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "gtkatakura <gt.katakura@gmail.com>"
+    }
+  }
+}
