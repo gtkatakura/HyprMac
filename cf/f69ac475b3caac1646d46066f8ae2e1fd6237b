@@ -1,0 +1,23 @@
+HyprMacTests/TeleportPlannerTests.swift
+  s_3c136e2bc184aa::t_4e79bdd3973406 50-76
+HyprMac/Core/Chrome/FocusGlide.swift
+  s_3c136e2bc184aa::t_b14463b0e2f83f 172-173
+  s_3c136e2bc184aa::t_25b951da036c65 148-149,152-155,158-161
+  s_3c136e2bc184aa::t_da93780f1854dd 57-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cff69ac475b3caac1646d46066f8ae2e1fd6237b",
+  "prompts": {},
+  "sessions": {
+    "s_3c136e2bc184aa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e7f80ce4-f036-458a-860c-70cba579f582",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "gtkatakura <gt.katakura@gmail.com>"
+    }
+  }
+}
