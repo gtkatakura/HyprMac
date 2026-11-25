@@ -1,0 +1,19 @@
+HyprMac/Core/Orchestration/ActionDispatcher.swift
+  s_cd221b02cb1d65::t_39ba4d07c0c548 1133-1141,1143-1144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c9c7237faae5f794a0e42bd672200e06bb4a4259",
+  "prompts": {},
+  "sessions": {
+    "s_cd221b02cb1d65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5bf4e62a-7d5d-4dc1-9d96-636cfb3e97ff",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "gtkatakura <gt.katakura@gmail.com>"
+    }
+  }
+}
