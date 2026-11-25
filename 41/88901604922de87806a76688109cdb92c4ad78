@@ -1,0 +1,19 @@
+README.md
+  s_3c136e2bc184aa::t_3687eb2466b996 253
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4188901604922de87806a76688109cdb92c4ad78",
+  "prompts": {},
+  "sessions": {
+    "s_3c136e2bc184aa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e7f80ce4-f036-458a-860c-70cba579f582",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "gtkatakura <gt.katakura@gmail.com>"
+    }
+  }
+}
